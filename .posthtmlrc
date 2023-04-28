@@ -7,12 +7,326 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "As enrolled Barnard students enter the housing lottery, plan on-campus accommodations, and apply for financial aid for the upcoming school year, transfer students are stuck in limbo."
+          },
+          {
+            "type": "text",
+            "value": "Transfer students, who do not have guaranteed housing, must wait until August before learning whether they will have on-campus accommodations if they choose to join the non-guaranteed housing waitlist."
+          },
+          {
+            "type": "text",
+            "value": "In interviews with Spectator, 19 Barnard transfer students voiced the financial burden, social isolation, and added stress caused by the college’s transfer student housing policies."
+          },
+          {
+            "type": "text",
+            "value": "Increased enrollment of both first-years and transfer students at Barnard without the simultaneous expansion of Barnard housing accommodations and need-aware application policies for transfers have forced transfer students off campus, often on short notice, with limited resources and without regard to individual financial needs, Spectator found."
+          },
+          {
+            "type": "subhed",
+              "value": "Increasing enrollment"
+          },
+          {
+            "type": "text",
+            "value": "Barnard has steadily increased its class sizes for several years, enrolling more transfer students since 2013 and more first-years since 2020, according to the school’s annual Common Data Set. In fall 2020, Barnard increased its first-year class size by 100 students, from about 600 to 700."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "first-year_graphic.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Prior to fall 2020, Barnard enrolled around 80 transfer students every fall cycle. Now, Barnard enrolls 130 to 150 transfer students each fall, although the number varies outside that range depending on the year, according to a Barnard spokesperson. For the fall 2022 transfer cycle, Barnard enrolled 157 students. Additionally, every spring, Barnard enrolls 20 to 50 transfer and visiting students."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "transfer_graphic.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "During a<a href=\"https://www.columbiaspectator.com/news/2018/04/04/transfers-describe-struggles-with-housing-academics-and-orientation-at-sga-town-hall/\"> 2018 Student Government Association town hall</a>, transfers described the stress of not having guaranteed housing. Since then, the transfer population has nearly doubled."
+          },
+          {
+            "type": "text",
+            "value": "All 19 transfer students interviewed said the resources and information that Barnard has for students seeking off-campus housing is either unhelpful or does not address the structural lack of housing."
+          },
+          {
+            "type": "subhed",
+              "value": "‘Kicked Out’"
+          },
+          {
+            "type": "text",
+            "value": "Compared to the other students without guaranteed housing, incoming transfer students are prioritized for Barnard housing based on how far their home address is from campus and how early they put their deposit for enrollment down. Having a home address far from campus and putting down a deposit early, however, does not ensure students will receive on-campus housing."
+          },
+          {
+            "type": "text",
+            "value": "Ellie Cheng, BC ’23, panicked when she received notice in late July that she would not receive on-campus housing in fall 2020. Cheng, a transfer student who lives in California and was planning to move to New York City in September, said she did not have the opportunity to tour or look for apartments in person before signing her rental agreement."
+          },
+          {
+            "type": "text",
+            "value": "“We knew that there were people that were probably going to scam us and exploit us, and we kind of just had to deal with it and get scammed and exploited anyways,” Cheng said."
+          },
+          {
+            "type": "text",
+            "value": "Cheng found the online resources to find housing off-campus for transfer students unhelpful and said she experienced discrimination in her search to find an apartment."
+          },
+          {
+            "type": "text",
+            "value": "“There’s this really nice building off Barnard, but I was applying to live in the basement there,” Cheng said. “My mom called the owner and he heard her accent and asked if she was from China. And she said yes. And he said, ‘Oh that means you can pay more then,’ and then he raised the rent.”"
+          },
+          {
+            "type": "text",
+            "value": "While Cheng expressed gratitude that she is able to afford off-campus housing close to campus, she said her rent is still expensive, the water is brown, none of her appliances work, and she gets harassed by her doorman."
+          },
+          {
+            "type": "text",
+            "value": "Even if an incoming transfer student received housing when they first enrolled at Barnard, the security of a one-year priority policy is not transparent. Eliana Haim, BC ’25, who transferred to Barnard in fall 2022, said Barnard’s housing policies for transfer students made her question if she made the right decision by enrolling."
+          },
+          {
+            "type": "text",
+            "value": "“I got guaranteed four years of housing at my last college, and now I’m going to have to worry about this every year,” Haim said. “I was concerned about that because that was honestly something that impacted my decision to transfer was if I would have gotten housing and then I did, but then turns out I wouldn’t for the next couple of years.”"
+          },
+          {
+            "type": "text",
+            "value": "Returning transfer students cannot participate in room selection or the housing lottery, meaning that they cannot join groups with friends with guaranteed housing and cannot participate in the Barnard/Columbia Housing Exchange."
+          },
+          {
+            "type": "text",
+            "value": "For many transfer students, the non-guaranteed waitlist, which notifies students of housing by early August, leaves them in difficult living situations. Seven transfer students told Spectator they found out they received guaranteed housing in August. Four others found out that they did not receive housing in late July."
+          },
+          {
+            "type": "text",
+            "value": "“We do not know that there is a shortage of housing at the College, as all students do not seek to live in campus housing,” a Barnard College spokesperson said in a statement to Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Fiona Campbell, BC ’23, a senior on the Transfer Student Advisory Board, told Spectator that prior to fall 2020, matriculated transfer students were able to enter the housing lottery if they received housing their first year."
+          },
+          {
+            "type": "text",
+            "value": "“Previous to COVID, the way that they would do [housing] for transfers was it wasn’t guaranteed that you got housing but once you got into housing you were guaranteed housing for the rest of your time,” Campbell said."
+          },
+          {
+            "type": "text",
+            "value": "According to a Barnard spokesperson, the change was made to prioritize incoming transfer students."
+          },
+          {
+            "type": "text",
+            "value": "“In the Fall 2020 semester, the College shifted to helping more transfer students acclimate to life at Barnard by providing housing to as many of them as possible in their first academic year,” a Barnard spokesperson said in a statement to Spectator. “In order to do that for future cohorts of transfer students, we are unable to have all transfer students who receive housing participate in the next year’s lottery.”"
+          },
+          {
+            "type": "text",
+            "value": "This past summer, Sarah Hwang, BC ’24, said she got notice in late July that she would not receive Barnard housing for the 2022-23 school year. Because Hwang was an Orientation Leader for Barnard’s New Student Orientation Program and needed to be on campus early, she only had “two to three days to find [a place to live],” she said. Hwang was ultimately able to find a sublease through Facebook."
+          },
+          {
+            "type": "text",
+            "value": "Other transfer students do not want to risk scrambling for an apartment at the last minute and begin searching for a place to live months ahead of move-in. Four transfer students said they did not apply for housing either ever or after a year in Barnard housing because they wanted to ensure they secured a place to live for the upcoming year."
+          },
+          {
+            "type": "text",
+            "value": "Dian Dian Jonas-Walsh, BC ’24, did not apply for Barnard housing for her first semester at Barnard after discussing her options with advisors and other students. Jones-Walsh decided it would be better to look for housing off-campus, though it did not come without stress."
+          },
+          {
+            "type": "text",
+            "value": "“It was very hard finding apartments that were either close to campus or that were affordable, and I chose to live downtown … so I could live with people I knew instead of finding roommates,” Jonas-Walsh said."
+          },
+          {
+            "type": "subhed",
+              "value": "The Divide"
+          },
+          {
+            "type": "text",
+            "value": "Returning transfer students’ barred entry into the housing lottery prevents them from fully integrating into the Barnard community. Fifteen transfer students told Spectator that Barnard’s transfer housing policies prevent them from feeling fully a part of the school."
+          },
+          {
+            "type": "text",
+            "value": "Charla Teves, BC ’25, who transferred to Barnard in fall 2022, said housing affects how students interact with the greater Barnard community."
+          },
+          {
+            "type": "text",
+            "value": "“I almost feel like because of this lack of housing, you’re … for a large part socializing with transfers because you’re secluded with them in a way versus just being mixed in with everyone else,” Teves said."
+          },
+          {
+            "type": "text",
+            "value": "According to the Barnard Residential Life and Housing webpage, the college “considers the residential experience to be an integral part of a student’s total education.” It promotes amenities and services for residential students, including close access to academic buildings and facilities, professional Residential Life and Housing staff for emergency situations, and amenities such as Internet access, laundry rooms, computer labs, music practice rooms, and study lounges."
+          },
+          {
+            "type": "text",
+            "value": "Hwang said her off-campus living situation affected her mental health and made it difficult to connect with friends."
+          },
+          {
+            "type": "text",
+            "value": "“I was kind of far from campus, I didn’t hang out with my friends as much which I think isolated me even more,” she said. “I just didn’t feel like going to the dining halls when it was like 8 p.m. at night. I didn’t feel like walking alone in the cold.”"
+          },
+          {
+            "type": "text",
+            "value": "While Jonas-Walsh said she still felt welcomed and a part of the Barnard community when she first transferred in fall 2021, she said housing off campus made it harder to be on campus for events and to be with friends because she was not walking distance from campus."
+          },
+          {
+            "type": "text",
+            "value": "Claudia Cortell, BC ’25, who entered Barnard in fall 2022, said the inability to select housing through the housing lottery creates a divide between transfer students and students who entered Barnard as first-years."
+          },
+          {
+            "type": "text",
+            "value": "“In a way, it kind of segregates transfer students from other students who are non-transfers,” Cortell said. “By not being able to join the housing lottery with other students, not being able to live with them in that way, not having that kind of opportunity, it kind of creates a divide between transfers and the rest of the community.”"
+          },
+          {
+            "type": "subhed",
+              "value": "Financial Aid"
+          },
+          {
+            "type": "text",
+            "value": "Barnard practices <a href=\"https://barnard.edu/costs-and-aid#:~:text=Need%2DBlind%20Admissions&text=Barnard%20has%20limited%20funding%20for,factor%20when%20reviewing%20these%20applications\">need-aware admission policies</a> for transfer students due to “limited funding,” according to the Barnard Admissions website. While fall applicants can apply for, and may receive, institutional and federal financial aid with this need-aware policy, spring applicants do not receive any institutional aid."
+          },
+          {
+            "type": "text",
+            "value": "Transfer students at Columbia College and the School of Engineering and Applied Science, on the other hand, are admitted on a need-blind basis and receive guaranteed housing for the entirety of their time at Columbia. The School of General Studies has “no separate application procedure for transfer students,” who are evaluated on a need-blind basis but do not receive guaranteed housing, according to the General Studies office of admissions."
+          },
+          {
+            "type": "text",
+            "value": "When asked how many current transfer students receive financial aid, a Barnard College spokesperson told Spectator that “a small percent of transfer students” receive aid, which they are notified of in their acceptance letter."
+          },
+          {
+            "type": "text",
+            "value": "Knowing that financial aid can determine admission to Barnard, some students who may be eligible for financial aid choose not to apply for aid to gain a leg up in admissions."
+          },
+          {
+            "type": "text",
+            "value": "Paloma La Valley, BC ’25, an international student who transferred in fall 2022, said she did not apply for financial aid when she applied to Barnard to maximize her chances of acceptance. This decision did not come without financial strain, she said."
+          },
+          {
+            "type": "text",
+            "value": "“Especially because my mom’s a single mom, so it literally all falls on her for my tuition and my brother’s,” La Valley said. “It’s a lot, and I don’t think Barnard has been the most understanding of that.”"
+          },
+          {
+            "type": "text",
+            "value": "La Valley said apartments close to campus are unaffordable, adding to the financial pressure."
+          },
+          {
+            "type": "text",
+            "value": "“We’re trying to find somewhere nearby to live, but of course, because of Barnard and just like the general Columbia community, the market value around here, it’s skyrocketed in the past years,” La Valley said. “For a lot of people, it’s just not affordable, not something feasible. So we’re having to look in different areas that maybe compromise our safety or other aspects.”"
+          },
+          {
+            "type": "text",
+            "value": "All students at Barnard who do not live on campus assume commuter student status, which can cause students on financial aid to lose up to $15,000 of aid. The room and board financial aid allotment decreases to a total of $1,800 for the year for commuter students to use as they see fit for their room and board needs."
+          },
+          {
+            "type": "text",
+            "value": "On-campus housing for multiple or single occupancy costs $11,738 for the academic year. <a href=\"https://www.cnn.com/2023/04/13/homes/manhattan-rentals-march/index.html\">CNN</a> reported in March that the median cost of rent in Manhattan was $4,175 a month, breaking records."
+          },
+          {
+            "type": "text",
+            "value": "According to the Common Data Set, Barnard’s commuter student population has grown by 17 percent since fall 2019. While only 3 percent of first-year students live off campus, 26 percent of the whole student population lived off campus as of fall 2021. Prior to last fall, Barnard’s entire commuter student population never grew beyond 9 percent. Forty-four commuter students received financial aid in 2022."
+          },
+          {
+            "type": "text",
+            "value": "Once students move off campus, financial aid covers only the lowest-cost meal plan. Caiti Levin, BC ’23, who has experienced both on-campus and off-campus housing as a transfer student, said that living off campus comes with additional costs."
+          },
+          {
+            "type": "text",
+            "value": "“When you live off campus, they automatically put you on the lowest plan for meals, so I was on [400] convenience points last semester, which was very difficult because I found it difficult to buy groceries and afford that because most of the grocery stores around campus are very expensive,” Levin said."
+          },
+          {
+            "type": "text",
+            "value": "For students like Asma Ali, BC ’24, reductions in financial aid packages and increased costs of living accommodations leave them with few options."
+          },
+          {
+            "type": "text",
+            "value": "“The biggest part of it was the financials for me. It’s New York City, housing is already crazy expensive here,” Ali said. “For someone who’s on a large amount of financial aid, it’s very hard to find the money to even pay one month of rent.”"
+          },
+          {
+            "type": "text",
+            "value": "Ali noted that while they have always received Barnard housing, they often have to wait for other students to decline their housing offer, which can be very close to or well into the start of classes in the fall."
+          },
+          {
+            "type": "text",
+            "value": "“I can’t afford to get an apartment out of campus,” Ali said. “It’s really difficult for me because I don’t really have the option of going off campus and getting housing once they tell me I don’t have housing.”"
+          },
+          {
+            "type": "text",
+            "value": "Ali recounted how this past summer, when they were a committee chair for NSOP,  they received free Barnard housing for the summer because they were working on campus. In mid-August, however, they received an email notifying them that they would initially not receive Barnard housing in the fall. Ali said their summer housing was taken away, and their financial aid package was reduced."
+          },
+          {
+            "type": "text",
+            "value": "“I ended up struggling for a while. I was couch surfing for a very long time within the city,” Ali said."
+          },
+          {
+            "type": "text",
+            "value": "Ali said that after talking with both housing and the financial aid office about their situation, they were given a spot in a double."
+          },
+          {
+            "type": "subhed",
+              "value": "‘A Structural Issue’"
+          },
+          {
+            "type": "text",
+            "value": "After transfer students expressed “anxiety and confusion around housing” to Mary Laurita, the Barnard associate dean of transfer students, she and the Transfer Student Advisory Board prepared an information session for finding off-campus housing in New York City on March 24."
+          },
+          {
+            "type": "text",
+            "value": "Though the information session and online resources such as Columbia’s Off-Campus Housing Assistance provide a jumpstart into searching for off-campus housing, students have found these resources unhelpful as they lack institutional support."
+          },
+          {
+            "type": "text",
+            "value": "Despite fall semester classes starting in September, one slide in a presentation during the session noted that “it’s still possible to find something very good into October and even November,” assuming students had another place to stay that was not Barnard housing before that time."
+          },
+          {
+            "type": "text",
+            "value": "Margaret Cavanaugh, BC ’25, attended the information session and said that although there was an attempt to genuinely help transfers, finding housing is a greater burden on students than is recognized."
+          },
+          {
+            "type": "text",
+            "value": "“The intention is there, but I think that at the end of the day, it’s a structural issue that no one seems to be working to solve, which I think is just infuriating,” Cavanaugh said. “There’s just no help that can actually get around the impediment of the fact that there is no housing for transfers.”"
+          },
+          {
+            "type": "text",
+            "value": "Clare Wibiralske, BC ’24, said the information provided was inadequate and that resources were nonexistent for students seeking help finding off-campus housing. Wibiralske said the current lack of Barnard housing for transfer students feels isolating."
+          },
+          {
+            "type": "text",
+            "value": "“I would say that housing really makes your experience here and who you surround yourself with,” Wibiralske said. “It’s just because I didn’t have two formative years at Barnard, it’s just another way that I’m a little bit ostracized from the greater community.”"
+          },
+          {
+            "type": "text",
+            "value": "For transfer students who did live in Barnard housing for either a semester or a year, the impact on returning transfer students’ sense of community changes after having to leave Barnard housing."
+          },
+          {
+            "type": "text",
+            "value": "As a senior reflecting on her experience as a transfer student at Barnard, Natalie Harder, BC ’23, said living in Barnard housing helped her find and build a community that she would not have had by living off campus."
+          },
+          {
+            "type": "text",
+            "value": "“I have a lot of imposter syndrome as a transfer, and I think I’m not alone in that,” Harder said. “That was mitigated by living in a dorm my first year here in a way that I don’t think it would have been if I had not been lucky enough to get housing the first time around.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Maya Stahl can be contacted at </i><a href=\"mailto:maya.stahl@columbiaspectator.com\"><i>maya.stahl@columbiaspectator.com</i></a><i>. Follow Spectator on Twitter </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Staff Member Lucia Enriquez can be contacted at </i><a href=\"mailto:lucia.enriquez@columbiaspectator.com\"><i>lucia.enriquez@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "‘A structural issue that no one seems to be working to solve’: Barnard transfer students report lack of housing options, increased expenses, and community isolation",
+        "date": "April 27, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Maya-Stahl/\">Maya Stahl. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Lucia-Enriquez/\">Lucia Enriquez",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TS4MM7JVXZCJXHLCXFHPMYZRHI.jpg",
+        "cover_caption": "Lola Lafia / Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/14GLAO2Uin62KfQfICDIe9r1LvfEfGs-TfHKCEC7ehOk/edit?usp=sharing"
       }
     }
   }
