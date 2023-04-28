@@ -26,6 +26,7 @@
           },
           {
             "type": "subhed",
+
               "value": "Increasing enrollment"
           },
           {
@@ -58,7 +59,9 @@
           },
           {
             "type": "subhed",
+
               "value": "‘Kicked Out’"
+
           },
           {
             "type": "text",
@@ -138,7 +141,9 @@
           },
           {
             "type": "subhed",
+
               "value": "The Divide"
+
           },
           {
             "type": "text",
@@ -178,7 +183,9 @@
           },
           {
             "type": "subhed",
+
               "value": "Financial Aid"
+
           },
           {
             "type": "text",
@@ -262,7 +269,9 @@
           },
           {
             "type": "subhed",
+
               "value": "‘A Structural Issue’"
+
           },
           {
             "type": "text",
@@ -317,9 +326,9 @@
             "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
           }
         ],
-        "headline": "‘A structural issue that no one seems to be working to solve’: Barnard transfer students report lack of housing options, increased expenses, and community isolation",
+        "headline": "‘A structural issue that no one seems to be working to solve’: Barnard transfer students report struggles with housing",
         "date": "April 27, 2023",
-        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Maya-Stahl/\">Maya Stahl. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Lucia-Enriquez/\">Lucia Enriquez",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Maya-Stahl/\">Maya Stahl</a>. Graphics by<a href=\"https://www.columbiaspectator.com/contributors/Lucia-Enriquez/\"> Lucia Enriquez</a>",
         "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TS4MM7JVXZCJXHLCXFHPMYZRHI.jpg",
         "cover_caption": "Lola Lafia / Staff Photographer",
         "USE_NEWS_NAV": true,
